@@ -11,4 +11,6 @@ The dashboard implements a dropdown menu to select the data for each Subject ID:
 - Bubble chart to display the sample count of each OTU. Marker size is based on OTU sample count (the greater the count, the bigger the marker).
 - Radial gauge to display the washing frequency per week (0 to 9 times).
 
+The [dashboard](https://jaeroc09.github.io/belly-button-challenge/) was also deployed through Github Pages.
+
 h/t to our instructor [Drew Hoang](https://github.com/codentell), which my code is heavily sourced from to understand the power of Javascript!
